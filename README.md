@@ -30,14 +30,26 @@ Atuo há mais de 20 anos criando soluções escaláveis, inteligentes e voltadas
 ---
 
 ## 📦 Projetos em Destaque (Portfólio)
-### ✅ Roteirizador Contábil — Ruby on Rails  
-Pipeline completo para ingestão de transações financeiras, roteirização contábil, geração de lotes e integração mock com SAP.  
-Inclui: Services, Jobs, Models, SQL otimizado, docs e arquitetura.  
-📁 *Disponível nos repositórios.*
+### 🔄 [Roteirizador Contábil — Ruby on Rails](https://github.com/WillCorrea/roteirizador-contabil-on-rails)
+Pipeline arquitetural para ingestão de transações financeiras via API REST, normalização de dados, aplicar regras contábeis complexas e envio de lotes para integração com SAP Contábil.
 
-*(Em breve)*  
-### ✅ Sistema de Propostas e Cotações — C# .NET Core + Angular  
-Simulação de projeto de seguro de vida com backend .NET, frontend Angular e banco SQL Server, trazendo requisitos funcionais, especificações técnicas e arquitetura limpa.
+- **Destaques:** Processamento assíncrono (Jobs), otimização de queries em PostgreSQL (-68% tempo por lote) e rastreabilidade total.
+- **Tecnologias:** Ruby on Rails, PostgreSQL, Sidekiq/GoodJob, Docker.
+
+
+### 🤖 [Radar Financeiro IA — Python + FastAPI + Gemini](https://github.com/WillCorrea/radar-financeiro-ia)
+Plataforma de monitoramento financeiro inteligente que consolida dados de cotações e eventos corporativos (BRAPI), gera análises e resumos via IA (Gemini) e envia alertas automatizados no Telegram.
+
+- **Destaques:** Arquitetura orientada a jobs assíncronos, migrations com Alembic, persistência em PostgreSQL (Docker) e resumos automáticos com fallback.
+- **Tecnologias:** Python, FastAPI, Google Gemini API, PostgreSQL, Docker, Telegram Bot API, Alembic.
+
+
+### 🏥 Sistema Integrado de Gestão de UBS (Unidades Básicas de Saúde) — Python / Django
+Plataforma completa para controle de estoque de medicamentos por lote, dispensação, rastreamento de notas fiscais, pedidos e trilhas de auditoria para saúde pública.
+
+- **Destaques:** Arquitetura multi-tenant por UBS, controle de acesso baseado em papéis (RBAC), API REST (DRF), pipeline de testes e deploy automatizado em nuvem.
+- **Tecnologias:** Python 3.11, Django 4.2, Django REST Framework, PostgreSQL, Docker, Railway.
+- **Status:** 🔒 *Código privado (Propriedade Intelectual)* — **Demonstrativo online disponível sob consulta** (acesso via token/degustação para avaliação técnica).
 
 ---
 
