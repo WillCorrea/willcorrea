@@ -4,6 +4,8 @@
 Sou profissional de tecnologia com sólida experiência em **liderança** **desenvolvimento**, **integrações corporativas**, **pipeline de dados**, **arquitetura de soluções** e **otimização de processos**.  
 Atuo há mais de 20 anos criando soluções escaláveis, inteligentes e voltadas para operações críticas — seguro de vida, contábil, fiscal, financeira e comercial.
 
+💼 Disponível para: Consultoria em Arquitetura de Software, Projetos Freelancer (Backend/Integrações) e Alocação por Demanda.
+
 ---
 
 ## 🚀 O que eu faço
@@ -49,7 +51,7 @@ Simulação de projeto de seguro de vida com backend .NET, frontend Angular e ba
 ---
 
 ## 🌎 Onde me encontrar
-✨ https://www.linkedin.com/in/wilson-correa-618371108/
+📧 **Contato direto:** wilson.infosystem@gmail.com | 💬 **LinkedIn:** [Wilson Corrêa](https://www.linkedin.com/in/wilson-correa-618371108/)
 
 ---
 
