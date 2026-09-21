@@ -21,11 +21,12 @@ Atuo há mais de 20 anos criando soluções escaláveis, inteligentes e voltadas
 ---
 
 ## 🧰 Tecnologias & Ferramentas
-**Backend:** C# .NET Core · Ruby on Rails · Node  
-**Banco de Dados:** SQL Server · PostgreSQL · MySQL  
-**Frontend:** Angular 5 (experiência corporativa)  
-**Infra & Tools:** Docker · Redis · Git · AWS (S3, Lambda, Jobs)  
-**Práticas:** Clean Code · OOP · DDD · SOLID · Arquitetura orientada a serviços · Escalabilidade · Observabilidade  
+
+- **Backend:** C# .NET Core · Ruby on Rails · Node.js · Python (FastAPI / Django)
+- **Banco de Dados:** SQL Server · PostgreSQL · MySQL
+- **Frontend:** Angular 5 (experiência corporativa)
+- **Infra & Tools:** Docker · Redis · Git · AWS (S3, Lambda, Jobs) · Railway
+- **Práticas & Arquitetura:** Clean Code · OOP · DDD · SOLID · Arquitetura Orientada a Serviços · Escalabilidade · Observabilidade
 
 ---
 
@@ -63,7 +64,9 @@ Plataforma completa para controle de estoque de medicamentos por lote, dispensa�
 ---
 
 ## 🌎 Onde me encontrar
-📧 **Contato direto:** wilson.infosystem@gmail.com | 💬 **LinkedIn:** [Wilson Corrêa](https://www.linkedin.com/in/wilson-correa-618371108/)
+
+📧 **Contato direto:** [wilson.infosystem@gmail.com](mailto:wilson.infosystem@gmail.com)  
+💬 **LinkedIn:** [Wilson Corrêa](https://www.linkedin.com/in/wilson-correa-618371108/)
 
 ---
 
